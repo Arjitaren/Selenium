@@ -39,6 +39,7 @@ public void initialdemo() {
 	test.fail("Failed");
 	extent.flush();
 	System.out.println("test");
+	System.out.println("test1");
 }
 	
 }
