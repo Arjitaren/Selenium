@@ -38,6 +38,7 @@ public void initialdemo() {
 	driver.close();
 	test.fail("Failed");
 	extent.flush();
+	System.out.println("test");
 }
 	
 }
